@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>
+    <title>El marca portuense</title>
+    <link>https://github.com/AcademiaB-Puerto/Marca-Portuense</link>
+    <description>Noticias de deportes de nuestra localidad</description>
+    <copyright>By El Marca Portuense</copyright>
+
+    <item>
+      <title>Bicicletada del CEIP Sagrado Corazón de Jesús</title>
+      <link>https://vivaelpuerto.es/el-puerto-deportes/1897243/enorme-exito-de-la-bicicletada-del-ceip-sagrado-corazon-de-jesus/</link>
+      <description>Este colegio de El Puerto organiza esta iniciativa promocionada por el Proyecto de Educación CIMA y por la Dirección General de Tráfico</description>
+      <author>El señor Marca Portuense</author>
+      <pubDate>Sat, 17 May 2025 12:01:00 GMT</pubDate>
+      <category>Ciclismo</category>
+    </item>
+
+    <item>
+      <title>El Puerto acoge la Gala de la Vela Andaluza</title>
+      <link>https://vivaelpuerto.es/el-puerto-deportes/1895514/el-puerto-acoge-la-gala-de-la-vela-andaluza/</link>
+      <description>Puerto de Santa María acoge la Gala de la Vela Andaluza, donde se entregarán alrededor de 100 premios para reconocer a clubes, deportistas y entidades destacadas del 2024.</description>
+      <author>La señora Marca Portuense</author>
+      <pubDate>Fri, 09 May 2025 11:15:00 GMT</pubDate>
+      <category>Deportes acuaticos</category>
+    </item>
+
+    <item>
+      <title>Torneo Benéfico de Pádel</title>
+      <link>https://vivaelpuerto.es/el-puerto-deportes/1893799/torneo-benefico-de-padel-de-la-asociacion-espanola-contra-el-cancer/</link>
+      <description>La AECC de El Puerto celebra un Torneo Benéfico de Pádel del 27 al 29 de junio para recaudar fondos y promover la salud.</description>
+      <author>El primo del señor Marca Portuense</author>
+      <pubDate>Wed, 30 Apr 2025 17:55:00 GMT</pubDate>
+      <category>Deporte y salud</category>
+    </item>
+
+    <item>
+      <title>Matthew Iglesias, campeón de España infantil</title>
+      <link>https://elpuertoactualidad.es/2025/05/07/matthew-iglesias-del-club-de-judo-tadeo-se-proclama-campeon-de-espana-infantil/</link>
+      <description>Matthew Iglesias, del Club de Judo Tadeo de El Puerto, se proclama campeón de España infantil en -55 kg en Huesca</description>
+      <author>El cuñado del primo del señor Marca Portuense</author>
+      <pubDate>Wed, 07 May 2025 14:30:00 GMT</pubDate>
+      <category>artes marciales</category>
+    </item>
+
+    <item>
+      <title>Nerea Carmona campeona de la liga de Primera division nacional</title>
+      <link>https://vivaelpuerto.es/el-puerto-deportes/1894871/nerea-carmona-se-proclama-campeona-de-la-liga-de-primera-division-nacional/</link>
+      <description>Nerea impulsa al CTM Portuense femenino hacia el ascenso tras una brillante temporada con un 90% de victorias.</description>
+      <author>El padre del hermano del amigo del primo del señor Marca Portuense</author>
+      <pubDate>Tue, 06 May 2025 17:14:00 GMT</pubDate>
+      <category>deporte de raqueta</category>
+    </item>
+
+  </channel>
+
+</rss>
